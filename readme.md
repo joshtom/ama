@@ -1,4 +1,7 @@
 # Ask me anything!
+<img src="https://media.licdn.com/dms/image/C4D03AQGbtFmUJF9FMQ/profile-displayphoto-shrink_200_200/0?e=1570665600&v=beta&t=pewCIzKAfTDCjUC4Q08P4WbAqe3hr96oMtVoZAx6TMk" />
+
+Hi, I'm Olajide joshua - A Frontend Engineer and Life Long learner. I build Solutions that helps with Global problems using advanced web technologies. To learn more About me [Visit](https://link.com) 
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
@@ -8,9 +11,6 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 
 ---
 
-<div align="center">Huge thanks to &nbsp;<a href="https://www.miles.in"><img src="https://user-images.githubusercontent.com/170270/34912034-3332ae4c-f8d6-11e7-8569-65b11486d003.png" width="80"></a>&nbsp; for sponsoring my open source work on <a href="https://www.patreon.com/sindresorhus">Patreon</a>.</div>
-
----
 
 ### Guidelines
 
