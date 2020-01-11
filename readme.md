@@ -1,7 +1,7 @@
 # Ask me anything!
 <img src="https://media.licdn.com/dms/image/C4D03AQGbtFmUJF9FMQ/profile-displayphoto-shrink_200_200/0?e=1570665600&v=beta&t=pewCIzKAfTDCjUC4Q08P4WbAqe3hr96oMtVoZAx6TMk" />
 
-Hi, I'm Olajide joshua - A Frontend Engineer and Life Long learner. I build Solutions that helps with Global problems using advanced web technologies. To learn more About me [Visit](https://link.com) 
+Hi, I'm Olajide joshua - A Frontend Engineer and Life Long learner. I build Solutions that helps with Global problems using advanced web technologies. To learn more About me [Visit](https://joshuaolajide.herokuapp.com) 
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
